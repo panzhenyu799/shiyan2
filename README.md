@@ -132,7 +132,7 @@ public static void printAll() {
 	}
 ```
 ## 流程图 
-![1]()
+![1](https://github.com/panzhenyu799/shiyan2/blob/main/liuchengtu.png)
 ## 实验结果
 ![1](https://github.com/panzhenyu799/shiyan2/blob/main/1603639333(1).jpg)
 ## 实验感想  
